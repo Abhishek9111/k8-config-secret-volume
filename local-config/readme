@@ -1,0 +1,1 @@
+apply create kind, apply deployment, apply service,apply ingress, apply ingress-config
